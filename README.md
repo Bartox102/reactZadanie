@@ -13,3 +13,6 @@ Bootstrap: Wykorzystany do stylizacji formularza.
 Wymagania
 Aby korzystać z komponentu, należy mieć zainstalowaną bibliotekę React.
 Dla prawidłowego działania komponentu, wymagana jest również biblioteka Bootstrap.
+
+![s](image.png)
+![a](image-1.png)
